@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "md5": "^2.2.1",
+    "mongoose": "^5.9.9",
+    "nodemon": "^2.0.3",
+    "parseurl": "^1.3.3",
+    "path": "^0.12.7"
+  }
+}
