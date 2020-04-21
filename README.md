@@ -11,14 +11,16 @@ Admin can create an election and add candidates to the Ethereum Blockchain
 
 Users(Voters) can select an election and vote for a candidate of their choice
 
-## To run react development server
+## Getting Started
+
+### To run react development server
 
 ```
 cd blockchain
 npm start
 ```
 
-## To run node server
+### To run node server
 ```
 cd server
 npm run dev
