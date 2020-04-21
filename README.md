@@ -10,14 +10,14 @@ The E-Voting app has 2 main users:
 Admin can create an election and add candidates to the Ethereum Blockchain
 Users(Voters) can select an election and vote for a candidate of their choice
 
-## To run React development server
+## To run react development server
 
 ```
 cd blockchain
 npm start
 ```
 
-## To run Node server
+## To run node server
 ```
 cd server
 npm run dev
