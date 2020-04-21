@@ -18,7 +18,7 @@ cd blockchain
 npm start
 ```
 
-## To run node server (Used for Admin login)
+## To run node server
 ```
 cd server
 npm run dev
