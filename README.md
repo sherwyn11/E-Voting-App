@@ -1,5 +1,5 @@
 # E-Voting App
-A simple E-voting app using Ethereum Blockchain and ReactJS
+A simple E-voting Decentralised App using Ethereum Blockchain and ReactJS
 
 Ethereum is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
 
