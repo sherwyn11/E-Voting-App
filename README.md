@@ -39,3 +39,5 @@ npm start
 cd server
 npm run dev
 ```
+
+© 2020 Sherwyn D'souza
