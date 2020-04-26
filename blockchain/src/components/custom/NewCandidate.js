@@ -49,7 +49,7 @@ class NewCandidate extends Component{
         this.addCandidates();
     }
     
-    addCandidates(content) {
+    addCandidates() {
         console.log(this.state);
         this.setState({ loading: true })
         this.state.election.methods.addCandidate(this.state.candidate_name, this.state.candidate_details, this.state.id).send({ from: this.state.account })
