@@ -29,13 +29,13 @@ Users(Voters) can select an election and vote for a candidate of their choice
 
 ### To run react development server
 
-```
+```bash
 cd blockchain
 npm start
 ```
 
 ### To run node server
-```
+```bash
 cd server
 npm run dev
 ```
