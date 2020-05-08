@@ -1,6 +1,8 @@
 # E-Voting App
 A simple E-voting Decentralised App using Solidity and ReactJS
 
+<img src="https://miro.medium.com/max/16000/1*AReX8uZOZKpGcvuUjogh0g.png" height="200px" width="360px"/>
+
 <b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
 
 The E-Voting app has 2 main users:
