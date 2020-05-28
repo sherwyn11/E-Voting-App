@@ -1,6 +1,6 @@
 # E-Voting App
 
-A simple E-voting Decentralised App using the Ethereum Blockchain, Solidity and ReactJS
+A simple E-voting Decentralised App using the Ethereum Blockchain, Solidity and the MERN(MongoDB, Express.js, ReactJS, Node.js) stack
 
 <img src="https://miro.medium.com/max/16000/1*AReX8uZOZKpGcvuUjogh0g.png" height="210px" width="360px"/>
 
