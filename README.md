@@ -6,7 +6,7 @@ A simple E-voting Decentralised App using the Ethereum Blockchain, Solidity and 
 
 <b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
 
-# About the D-App
+## About the D-App
 
 The E-Voting app has 2 main users:
 1. Admin 
@@ -16,7 +16,7 @@ Admin can create an election and add candidates to the Ethereum Blockchain
 
 Users(Voters) can select an election and vote for a candidate of their choice
 
-# Dependencies
+## Dependencies
 <ul>
   <li>Node.js</li>
   <li>npm</li>
@@ -30,7 +30,7 @@ Users(Voters) can select an election and vote for a candidate of their choice
 </ul>
 
 
-# Getting Started
+## Getting Started
 
 ### To run react development server
 
