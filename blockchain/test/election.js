@@ -1,4 +1,4 @@
-var Election = artifacts.require('./Election.sol');
+var Election = artifacts.require("Election");
 
 contract("Election", function(accounts){
     var electionInstance;
