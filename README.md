@@ -32,6 +32,14 @@ Users(Voters) can select an election and vote for a candidate of their choice
 
 ## Getting Started
 
+### To deploy the Smart Contract
+
+1. Install Ganache and create a workspace.
+2. Install Truffle npm package globally by running ```npm install -g truffle```.
+3. Run ```truffle migrate --reset``` from the command line to deploy the smart contract to the blockchain.
+4. Download Metamask Chrome extension for the browser to help interaction between the application and the blockchain.
+
+
 ### To run react development server
 
 ```bash
@@ -44,5 +52,5 @@ npm start
 cd server
 npm run dev
 ```
-<br></br>
-© 2020 Sherwyn D'souza
+
+&copy; 2020 Sherwyn D'souza
